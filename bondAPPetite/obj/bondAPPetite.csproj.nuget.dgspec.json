@@ -1,28 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vegan\\source\\repos\\Solucion-bondAPPetite\\bondAPPetite\\bondAPPetite.csproj": {}
+    "C:\\tp_poo\\tp_poo\\bondAPPetite\\bondAPPetite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vegan\\source\\repos\\Solucion-bondAPPetite\\bondAPPetite\\bondAPPetite.csproj": {
+    "C:\\tp_poo\\tp_poo\\bondAPPetite\\bondAPPetite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vegan\\source\\repos\\Solucion-bondAPPetite\\bondAPPetite\\bondAPPetite.csproj",
+        "projectUniqueName": "C:\\tp_poo\\tp_poo\\bondAPPetite\\bondAPPetite.csproj",
         "projectName": "bondAPPetite",
-        "projectPath": "C:\\Users\\Vegan\\source\\repos\\Solucion-bondAPPetite\\bondAPPetite\\bondAPPetite.csproj",
-        "packagesPath": "C:\\Users\\Vegan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vegan\\source\\repos\\Solucion-bondAPPetite\\bondAPPetite\\obj\\",
+        "projectPath": "C:\\tp_poo\\tp_poo\\bondAPPetite\\bondAPPetite.csproj",
+        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\tp_poo\\tp_poo\\bondAPPetite\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Vegan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0-windows7.0"
+          "net6.0-windows"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
         },
         "frameworks": {
           "net6.0-windows7.0": {
@@ -45,7 +48,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -57,7 +61,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

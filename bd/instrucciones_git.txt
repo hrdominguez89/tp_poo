@@ -1,0 +1,10 @@
+agrego archivos al "STAGED AREA"
+git add .
+
+
+agregar comentario de cambios de esa "STAGED AREA"
+git commit -m "mensaje"
+
+
+subir el comit al repo
+git push origin main
