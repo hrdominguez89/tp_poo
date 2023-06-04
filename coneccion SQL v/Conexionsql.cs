@@ -51,6 +51,7 @@ namespace coneccion_SQL_v
                 salida = "No se creó el usuario: " + ex.ToString();
             }
             return salida;
+           
         }
 
         public int UsuarioRegistrado(int dni)
