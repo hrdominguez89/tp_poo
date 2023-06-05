@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "I63asDF78ak0DXQLSdGVM41vKb9eODZ/D7u6Z9rtdTzfCZK09vkYbID2xK0YComSPpJEciBm/c1x3A4wRdCIdg==",
+  "dgSpecHash": "wFhFFBJXebWHNMKF5U8PTL6aY1sgo3FhtdZ9Qr8JYuTFD7SxNlZRSLz+z2a91PJ5H3XUScAc+5R3c63EQ1XNEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vegan\\source\\repos\\Solucion-bondAPPetite\\bondAPPetite\\bondAPPetite.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\rndiaz\\Desktop\\TP POO\\tp_poo\\bondAPPetite\\bondAPPetite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rndiaz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\rndiaz\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\rndiaz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\rndiaz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
   "logs": []
 }
