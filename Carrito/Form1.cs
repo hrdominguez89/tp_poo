@@ -8,10 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+//carrito
 
 namespace coneccion_SQL_v
 {
-    public partial class Carrito : Form
+    public class Carrito : Form
     {
        
         public Carrito()
@@ -48,7 +49,7 @@ namespace coneccion_SQL_v
         ///  Required method for Designer support - do not modify
         ///  the contents of this method with the code editor.
         /// </summary>
-        private void InitializeComponent()
+        public void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Carrito));
             this.panel1 = new System.Windows.Forms.Panel();
