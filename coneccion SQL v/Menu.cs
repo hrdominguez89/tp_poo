@@ -10,14 +10,20 @@ using System.Windows.Forms;
 
 namespace coneccion_SQL_v
 {
-    public partial class Form3 : Form
+    public partial class Menu : Form
     {
-        public Form3()
+        public Menu()
         {
             InitializeComponent();
         }
 
         private void button1_Click(object sender, EventArgs e)
+        {
+            Minutas minutas = new Minutas();
+            minutas.Show(); 
+        }
+
+        private void button2_Click(object sender, EventArgs e)
         {
 
         }

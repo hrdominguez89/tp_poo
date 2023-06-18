@@ -13,6 +13,7 @@ namespace coneccion_SQL_v
 {
     public partial class Login : Form
     {
+        Conexionsql c = new Conexionsql();
         public Login()
         {
             InitializeComponent();
@@ -26,8 +27,13 @@ namespace coneccion_SQL_v
 
         private void button1_Click(object sender, EventArgs e)
         {
-             Form3 C = new Form3 ();
+            Menu C = new Menu ();
             C.Show();
+        }
+
+        private void Login_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

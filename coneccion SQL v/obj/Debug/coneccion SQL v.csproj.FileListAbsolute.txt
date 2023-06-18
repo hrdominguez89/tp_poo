@@ -23,3 +23,17 @@ E:\DESARROLLO DE SOFTWARE\DOO\TP integrador en equipo\coneccion SQL v\coneccion 
 E:\DESARROLLO DE SOFTWARE\DOO\TP integrador en equipo\coneccion SQL v\coneccion SQL v\obj\Debug\coneccion SQL v.pdb
 E:\DESARROLLO DE SOFTWARE\DOO\TP integrador en equipo\coneccion SQL v\coneccion SQL v\obj\Debug\coneccion_SQL_v.Registrodeusuarios.resources
 E:\DESARROLLO DE SOFTWARE\DOO\TP integrador en equipo\coneccion SQL v\coneccion SQL v\obj\Debug\coneccion_SQL_v.Form3.resources
+C:\Users\rndiaz\Desktop\tp poo\coneccion SQL v\bin\Debug\coneccion SQL v.exe.config
+C:\Users\rndiaz\Desktop\tp poo\coneccion SQL v\bin\Debug\coneccion SQL v.exe
+C:\Users\rndiaz\Desktop\tp poo\coneccion SQL v\bin\Debug\coneccion SQL v.pdb
+C:\Users\rndiaz\Desktop\tp poo\coneccion SQL v\obj\Debug\coneccion SQL v.csproj.AssemblyReference.cache
+C:\Users\rndiaz\Desktop\tp poo\coneccion SQL v\obj\Debug\coneccion SQL v.csproj.SuggestedBindingRedirects.cache
+C:\Users\rndiaz\Desktop\tp poo\coneccion SQL v\obj\Debug\coneccion_SQL_v.Minutas.resources
+C:\Users\rndiaz\Desktop\tp poo\coneccion SQL v\obj\Debug\coneccion_SQL_v.Registrodeusuarios.resources
+C:\Users\rndiaz\Desktop\tp poo\coneccion SQL v\obj\Debug\coneccion_SQL_v.Login.resources
+C:\Users\rndiaz\Desktop\tp poo\coneccion SQL v\obj\Debug\coneccion_SQL_v.Properties.Resources.resources
+C:\Users\rndiaz\Desktop\tp poo\coneccion SQL v\obj\Debug\coneccion SQL v.csproj.GenerateResource.cache
+C:\Users\rndiaz\Desktop\tp poo\coneccion SQL v\obj\Debug\coneccion SQL v.csproj.CoreCompileInputs.cache
+C:\Users\rndiaz\Desktop\tp poo\coneccion SQL v\obj\Debug\coneccion SQL v.exe
+C:\Users\rndiaz\Desktop\tp poo\coneccion SQL v\obj\Debug\coneccion SQL v.pdb
+C:\Users\rndiaz\Desktop\tp poo\coneccion SQL v\obj\Debug\coneccion_SQL_v.Menu.resources

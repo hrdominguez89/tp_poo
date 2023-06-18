@@ -8,23 +8,23 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\PC\\.nuget\\packages\\": {},
+    "C:\\Users\\rndiaz\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DESARROLLO DE SOFTWARE\\DOO\\TP integrador en equipo\\coneccion SQL v\\Carrito\\Carrito.csproj",
+      "projectUniqueName": "C:\\Users\\rndiaz\\Desktop\\tp poo\\Carrito\\Carrito.csproj",
       "projectName": "Carrito",
-      "projectPath": "E:\\DESARROLLO DE SOFTWARE\\DOO\\TP integrador en equipo\\coneccion SQL v\\Carrito\\Carrito.csproj",
-      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "E:\\DESARROLLO DE SOFTWARE\\DOO\\TP integrador en equipo\\coneccion SQL v\\Carrito\\obj\\",
+      "projectPath": "C:\\Users\\rndiaz\\Desktop\\tp poo\\Carrito\\Carrito.csproj",
+      "packagesPath": "C:\\Users\\rndiaz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rndiaz\\Desktop\\tp poo\\Carrito\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rndiaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -87,7 +87,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
