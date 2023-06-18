@@ -10,3 +10,15 @@ E:\DESARROLLO DE SOFTWARE\DOO\PRACTICA WIN FORMS\coneccion SQL v\coneccion SQL v
 E:\DESARROLLO DE SOFTWARE\DOO\PRACTICA WIN FORMS\coneccion SQL v\coneccion SQL v\obj\Debug\coneccion SQL v.exe
 E:\DESARROLLO DE SOFTWARE\DOO\PRACTICA WIN FORMS\coneccion SQL v\coneccion SQL v\obj\Debug\coneccion SQL v.pdb
 E:\DESARROLLO DE SOFTWARE\DOO\PRACTICA WIN FORMS\coneccion SQL v\coneccion SQL v\obj\Debug\coneccion_SQL_v.Login.resources
+E:\DESARROLLO DE SOFTWARE\DOO\TP integrador en equipo\coneccion SQL v\coneccion SQL v\bin\Debug\coneccion SQL v.exe.config
+E:\DESARROLLO DE SOFTWARE\DOO\TP integrador en equipo\coneccion SQL v\coneccion SQL v\bin\Debug\coneccion SQL v.exe
+E:\DESARROLLO DE SOFTWARE\DOO\TP integrador en equipo\coneccion SQL v\coneccion SQL v\bin\Debug\coneccion SQL v.pdb
+E:\DESARROLLO DE SOFTWARE\DOO\TP integrador en equipo\coneccion SQL v\coneccion SQL v\obj\Debug\coneccion SQL v.csproj.AssemblyReference.cache
+E:\DESARROLLO DE SOFTWARE\DOO\TP integrador en equipo\coneccion SQL v\coneccion SQL v\obj\Debug\coneccion SQL v.csproj.SuggestedBindingRedirects.cache
+E:\DESARROLLO DE SOFTWARE\DOO\TP integrador en equipo\coneccion SQL v\coneccion SQL v\obj\Debug\coneccion_SQL_v.Login.resources
+E:\DESARROLLO DE SOFTWARE\DOO\TP integrador en equipo\coneccion SQL v\coneccion SQL v\obj\Debug\coneccion_SQL_v.Properties.Resources.resources
+E:\DESARROLLO DE SOFTWARE\DOO\TP integrador en equipo\coneccion SQL v\coneccion SQL v\obj\Debug\coneccion SQL v.csproj.GenerateResource.cache
+E:\DESARROLLO DE SOFTWARE\DOO\TP integrador en equipo\coneccion SQL v\coneccion SQL v\obj\Debug\coneccion SQL v.csproj.CoreCompileInputs.cache
+E:\DESARROLLO DE SOFTWARE\DOO\TP integrador en equipo\coneccion SQL v\coneccion SQL v\obj\Debug\coneccion SQL v.exe
+E:\DESARROLLO DE SOFTWARE\DOO\TP integrador en equipo\coneccion SQL v\coneccion SQL v\obj\Debug\coneccion SQL v.pdb
+E:\DESARROLLO DE SOFTWARE\DOO\TP integrador en equipo\coneccion SQL v\coneccion SQL v\obj\Debug\coneccion_SQL_v.Registrodeusuarios.resources

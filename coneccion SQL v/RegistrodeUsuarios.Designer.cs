@@ -1,6 +1,6 @@
 ﻿namespace coneccion_SQL_v
 {
-    partial class Form1
+    partial class Registrodeusuarios
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -181,7 +181,7 @@
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
-            // Form1
+            // Registrodeusuarios
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -200,8 +200,8 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Name = "Form1";
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
+            this.Name = "Registrodeusuarios";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Registro de usuario";
             this.Load += new System.EventHandler(this.Form1_Load);

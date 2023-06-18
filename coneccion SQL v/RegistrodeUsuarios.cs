@@ -9,12 +9,13 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
+//Registro de usuarios
 namespace coneccion_SQL_v
 {
-    public partial class Form1 : Form
+    public partial class Registrodeusuarios : Form
     {
         Conexionsql c = new Conexionsql();
-        public Form1()
+        public Registrodeusuarios()
         {
             InitializeComponent();
         }
@@ -43,11 +44,14 @@ namespace coneccion_SQL_v
                 textBox3.Text = "";
                 textBox4.Text = "";
                 textBox5.Text = "";
+
             }
             else
             {
                 MessageBox.Show("Usuario existente");
             }
+          
+
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -59,12 +63,13 @@ namespace coneccion_SQL_v
 
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
-
+            
         }
 
         private void label5_Click(object sender, EventArgs e)
         {
-
+            Form Carrito = new Form();
+            Carrito.Show();
         }
     }
 }

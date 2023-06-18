@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mpJg6V87jOc9QM5mT5GXaL4/RTavU6k+TMlzkFl+2PBiHLDbKhrThsL3+SgfM77qpYu0pMZqRvbhOT1PFGwqdg==",
+  "success": true,
+  "projectFilePath": "E:\\DESARROLLO DE SOFTWARE\\DOO\\TP integrador en equipo\\coneccion SQL v\\Carrito\\Carrito.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
