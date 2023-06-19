@@ -37,3 +37,7 @@ C:\Users\rndiaz\Desktop\tp poo\coneccion SQL v\obj\Debug\coneccion SQL v.csproj.
 C:\Users\rndiaz\Desktop\tp poo\coneccion SQL v\obj\Debug\coneccion SQL v.exe
 C:\Users\rndiaz\Desktop\tp poo\coneccion SQL v\obj\Debug\coneccion SQL v.pdb
 C:\Users\rndiaz\Desktop\tp poo\coneccion SQL v\obj\Debug\coneccion_SQL_v.Menu.resources
+C:\Users\rndiaz\Desktop\TP POO\coneccion SQL v\obj\Debug\coneccion_SQL_v.Bebidas.resources
+C:\Users\rndiaz\Desktop\TP POO\coneccion SQL v\obj\Debug\coneccion_SQL_v.Cafeteria.resources
+C:\Users\rndiaz\Desktop\TP POO\coneccion SQL v\obj\Debug\coneccion_SQL_v.Postres.resources
+C:\Users\rndiaz\Desktop\TP POO\coneccion SQL v\obj\Debug\coneccion_SQL_v.UsuarioAdmin.resources

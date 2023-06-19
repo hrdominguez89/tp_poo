@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rndiaz\\Desktop\\tp poo\\Carrito\\Carrito.csproj": {}
+    "C:\\Users\\rndiaz\\Desktop\\TP POO\\Carrito\\Carrito.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rndiaz\\Desktop\\tp poo\\Carrito\\Carrito.csproj": {
+    "C:\\Users\\rndiaz\\Desktop\\TP POO\\Carrito\\Carrito.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rndiaz\\Desktop\\tp poo\\Carrito\\Carrito.csproj",
+        "projectUniqueName": "C:\\Users\\rndiaz\\Desktop\\TP POO\\Carrito\\Carrito.csproj",
         "projectName": "Carrito",
-        "projectPath": "C:\\Users\\rndiaz\\Desktop\\tp poo\\Carrito\\Carrito.csproj",
+        "projectPath": "C:\\Users\\rndiaz\\Desktop\\TP POO\\Carrito\\Carrito.csproj",
         "packagesPath": "C:\\Users\\rndiaz\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\rndiaz\\Desktop\\tp poo\\Carrito\\obj\\",
         "projectStyle": "PackageReference",

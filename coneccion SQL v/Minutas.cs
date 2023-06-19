@@ -21,5 +21,10 @@ namespace coneccion_SQL_v
         {
 
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
