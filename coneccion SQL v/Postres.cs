@@ -16,5 +16,10 @@ namespace coneccion_SQL_v
         {
             InitializeComponent();
         }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -174,5 +174,68 @@
   <ItemGroup>
     <None Include="Resources\rabas.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cheescake.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ensalada de fruta.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\durazno con crema.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flan.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lemon pie.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tiramisu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7up.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coca.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fanta.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\amstel.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quilmes.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imperial negra.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cafe.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cafe con leche.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cafe irlandes.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\capucchino.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\avocado toast.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\medialunas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tostados.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tiramisu1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\postre oreo.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
