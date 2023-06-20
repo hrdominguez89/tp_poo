@@ -43,14 +43,15 @@ namespace coneccion_SQL_v
                 {
                     this.Hide();
 
-                    if (dt.Rows[0][1].ToString() == "Admin")
+                    if (dt.Rows[0][1].ToString() == "2")
                     {
                         new UsuarioAdmin(dt.Rows[0][0].ToString()).Show();
                     }
 
-                    else if (dt.Rows[0][1].ToString() == "Usuario")
+                    else if (dt.Rows[0][1].ToString() == "1")
                     {
                         new Menu(dt.Rows[0][0].ToString()).Show();
+                       
                     }
                 }
                 else
