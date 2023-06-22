@@ -1,0 +1,17 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+
+    <UsingTask TaskName="AvaloniaStatsTask"
+               AssemblyFile="$(AvaloniaBuildServicesTasksLocation)"/>
+
+    <Target Name="AvaloniaStats"
+            BeforeTargets="CoreCompile"
+            Condition="$(DesignTimeBuild) != 'true' And $(UsedAvaloniaProducts) != ''">
+        <AvaloniaStatsTask
+                ProjectName="$(MSBuildProjectName)"
+                TargetFramework="$(TargetFramework)"
+                RuntimeIdentifier="$(RuntimeIdentifier)"
+                AvaloniaPackageVersion="$(AvaloniaMainPackageVersion)"
+                OutputType="$(OutputType)"
+        />
+    </Target>
+</Project>

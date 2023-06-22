@@ -253,6 +253,16 @@ namespace coneccion_SQL_v.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap mujer_comiendo_papas_fritas_salsa_tomate {
+            get {
+                object obj = ResourceManager.GetObject("mujer-comiendo-papas-fritas-salsa-tomate", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap papas_con_chedar {
             get {
                 object obj = ResourceManager.GetObject("papas con chedar", resourceCulture);
